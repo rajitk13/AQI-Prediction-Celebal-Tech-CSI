@@ -12,7 +12,7 @@ model = pickle.load(open(model_file, 'rb'))
 def main():
     st.title("Air Quality Index Prediction")
     
-    city = st.selectbox("Select City", ["Ahmedabad", "Bengaluru", "Chandigarh", "Chennai",  "Delhi"])
+    city = st.selectbox("Select City", ["Ahmedabad", "Bengaluru", "Chandigarh", "Chennai",  "Delhi", "Sikkim"])
     model_file = city.lower() + "_model.pkl"
     model = pickle.load(open(model_file, 'rb'))
     
