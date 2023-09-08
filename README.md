@@ -1,5 +1,9 @@
-# csi-team-3-project
+# Celebal Technologies - Internship Project
 Repository for the group task assigned during the Celebal Summer Internship. This project involves web scraping for Air Quality Index, exploratory data analysis, feature engineering, machine learning model development, and deployment.
+
+
+https://github.com/rajitk13/csi-team-3-project/assets/73546886/645d1579-d41a-4b95-95ab-24193848d2cf
+
 
 
 # Project Title: Air Quality Prediction for Urban Areas
